@@ -1,0 +1,14 @@
+B003,1984,George Orwell,Fiction,Borrowed
+B007,A Brief History of Time,Stephen Hawking,Educational,Available
+B031,Clean Code,Robert C. Martin,Educational,Available
+B035,Cosmos,Carl Sagan,Educational,Available
+B032,Dune,Frank Herbert,Sci-Fi,Borrowed
+B011,Foundation,Isaac Asimov,Sci-Fi,Available
+B033,Pride and Prejudice,Jane Austen,Romance,Available
+B004,Sapiens,Yuval Noah Harari,Educational,Borrowed
+B030,The Catcher in the Rye,J.D. Salinger,Fiction,Available
+B009,The Great Gatsby,F. Scott Fitzgerald,Fiction,Borrowed
+B006,The Hobbit,J.R.R. Tolkien,Fiction,Borrowed
+B012,The Notebook,Nicholas Sparks,Romance,Available
+B034,To Kill a Mockingbird,Harper Lee,Fiction,Borrowed
+B010,War and Peace,Leo Tolstoy,Fiction,Borrowed

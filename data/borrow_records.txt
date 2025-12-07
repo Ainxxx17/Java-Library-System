@@ -1,0 +1,18 @@
+M1005,Ian,B007,A Brief History of Time,2025-11-09,2025-11-15,2025-11-17,Returned,Late: ₱40.00
+M1006,Charlze,B004,Sapiens,2025-11-17,2026-11-17,2025-11-17,Returned,-
+M1006,Charlze,B003,1984,2025-11-17,2025-11-24,2025-11-17,Returned,-
+M1006,Charlze,B008,To Kill a Mockingbird,2025-11-09,2025-11-15,2025-11-17,Returned,Late: ₱40.00
+M1006,Charlze,B008,To Kill a Mockingbird,2025-11-17,2025-11-24,-,Borrowed,-
+M1006,Charlze,B004,Sapiens,2025-11-17,2025-11-24,-,Borrowed,-
+M1006,Charlze,B003,1984,2025-11-17,2025-11-24,-,Borrowed,-
+M1005,Ian,B011,Foundation,2025-11-17,2025-11-24,2025-11-23,Returned,-
+M1005,Ian,B002,Dune,2025-11-17,2025-11-24,-,Borrowed,-
+M1005,Ian,B007,A Brief History of Time,2025-11-17,2025-11-24,2025-11-17,Returned,-
+M1005,Ian,B011,Foundation,2025-11-23,2025-11-30,2025-11-23,Returned,-
+M1005,Ian,B011,Foundation,2025-11-23,2025-11-20,2025-11-23,Returned,Late: ₱60.00
+M1005,Ian,B007,A Brief History of Time,2025-11-23,2025-11-30,2025-11-23,Returned,-
+M1009,Ian Cabalquinto,B035,Cosmos,2025-11-23,2025-11-20,2025-11-23,Returned,Late: ₱60.00
+M1009,Ian Cabalquinto,B031,Clean Code,2025-11-23,2025-11-30,2025-11-23,Returned,-
+M1010,Joemar ,B007,A Brief History of Time,2025-11-23,2025-11-30,2025-11-23,Returned,-
+M1010,Joemar ,B007,A Brief History of Time,2025-11-23,2025-11-30,2025-11-23,Returned,-
+M1010,Joemar ,B012,The Notebook,2025-11-23,2025-11-20,2025-11-23,Returned,Late: ₱60.00

@@ -1,0 +1,10 @@
+M1001,Ian Cabalquinto,ian123,password123,MEMBER
+M1003,Reimar Gutierrez,rei123,123,MEMBER
+A001,Admin User,admin,admin123,ADMIN
+M1005,Ian,i,i,MEMBER
+M1006,Charlze,MC,09,MEMBER
+M1007,Kiel,Kiel01,kiel123,MEMBER
+M1008,Ezekiel,kiel010,kiel1234,MEMBER
+M1009,Ian Cabalquinto,Hateza,htz123,MEMBER
+
+M1010,Joemar ,jr07,jr123,MEMBER
